@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Student of IT
+<h3 align="left">Student of IT
   <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2021/08/engracados-gifs-de-humor-0.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
