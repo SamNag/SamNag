@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Student of IT
-  <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611ca9d1b41b121e1f0a96c184bde51978b8276b3d4&rid=giphy.gif&ct=g)">
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuelnagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelnagy" height="30" width="40" /></a>
