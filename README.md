@@ -1,11 +1,60 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="left">Student of IT
-  <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2021/08/engracados-gifs-de-humor-0.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samuelnagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelnagy" height="30" width="40" /></a>
+<h1 align="center">Hey there! 👋 I'm Samuel</h1>
+
+<h3 align="center">🚀 Data Analyst | UX/UI Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
+### 🌍 About Me:
+💡 Tech-driven with a strong focus on **UX/UI design** and **data analysis**.  
+📊 Currently working in a **Customer Experience (CX) team** as a **Data Analyst**—turning insights into impactful decisions.  
+🎨 Passionate about **art, painting, and design**, aiming to become a **Brand Experience (BX) builder** one day.  
+🏋️‍♂️ Sports & gym lover who enjoys tackling real-world challenges, both in tech and in life.  
+
+---
+
+### 🔗 Connect with me:
+<a href="https://linkedin.com/in/samuelnagy" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samuel Nagy | LinkedIn" height="30" width="40" />
+</a>
+
+---
+
+### 🛠️ Tech Stack:
+#### **Languages & Frameworks:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+</p>
+
+#### **Databases & Data Analysis:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+</p>
+
+#### **Design & UX/UI:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Miro_logo.svg" alt="Miro" width="80" height="40"/>
+</p>
+
+---
+
+### 🎨 Hobbies & Interests:
+- 🏋️‍♂️ **Sports & Gym** – keeping both body & mind strong  
+- 🎭 **Art & Painting** – creativity fuels innovation  
+- 🖼️ **Art Galleries** – appreciating aesthetics & design  
+- 🧩 **Solving Real Problems** – love working on practical, impactful solutions  
+- 🔥 **Brand Experience (BX) Design** – future goal to build powerful brand identities  
+
+---
+
+🚀 **Open to networking, collaborations, and new challenges!** Let’s build something great together.  
