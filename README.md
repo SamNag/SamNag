@@ -43,7 +43,7 @@
 #### **Design & UX/UI:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.brandfetch.io/idAnDTFapY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1720163995168" alt="Miro" width="80" height="40"/>
+  <img src="https://cdn.brandfetch.io/idAnDTFapY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1720163995168" alt="Miro" width="40" height="40"/>
 </p>
 
 ---
