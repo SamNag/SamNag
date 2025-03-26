@@ -56,5 +56,3 @@
 - 🔥 **Brand Experience (BX) Design** – future goal to build powerful brand identities  
 
 ---
-
-🚀 **Open to networking, collaborations, and new challenges!** Let’s build something great together.  
