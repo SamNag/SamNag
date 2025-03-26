@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Samuel</h1>
 
-<h3 align="center">🚀 Data Analyst | UX/UI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Data Analyst | UX/UI Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF">
